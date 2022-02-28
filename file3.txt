@@ -1,1 +1,2 @@
 New contents added in rebasing repo file three
+File three modified 
